@@ -1,0 +1,30 @@
+body{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heading{
+    color: white;
+    background-color: black;
+    width: fit-content;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 45px black;
+}
+
+#header{
+ color:crimson;
+ background-color:lightpink;
+}
+
+#button{
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+}
